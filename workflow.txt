@@ -1,0 +1,16 @@
+PROCESSED LAMBDA:
+
+reading ingested data into data frame
+
+create data frames for each table
+
+select relevant columns for warehouse structure from relevant data frames and convert to parquet
+
+write parquet data to processed bucket 
+
+
+
+
+
+
+

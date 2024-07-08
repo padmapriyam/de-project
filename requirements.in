@@ -1,0 +1,10 @@
+boto3
+pytest
+pytest-cov
+moto
+pg8000
+pandas
+pyarrow
+pytest-testdox
+python-dotenv
+sqlalchemy
